@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Views/RCTView.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Views/UIView+React.h
