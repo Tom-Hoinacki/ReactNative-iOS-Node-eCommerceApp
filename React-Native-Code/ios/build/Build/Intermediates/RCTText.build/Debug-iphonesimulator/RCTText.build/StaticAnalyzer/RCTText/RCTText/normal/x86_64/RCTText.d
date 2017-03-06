@@ -1,21 +1,21 @@
 dependencies: \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/Libraries/Text/RCTText.m \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/Libraries/Text/RCTText.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/Libraries/Text/RCTShadowText.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h

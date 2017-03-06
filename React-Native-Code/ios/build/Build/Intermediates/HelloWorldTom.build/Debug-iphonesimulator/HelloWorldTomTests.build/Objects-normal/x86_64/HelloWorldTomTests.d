@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/Tommy/HelloWorldTom/ios/HelloWorldTomTests/HelloWorldTomTests.m \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/HelloWorldTomTests/HelloWorldTomTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h \
@@ -29,13 +29,13 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/Tommy/HelloWorldTom/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h

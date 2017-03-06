@@ -1,19 +1,19 @@
 dependencies: \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Modules/RCTDevMenu.m \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Modules/RCTDevMenu.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTKeyCommands.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTRootView.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/Tommy/HelloWorldTom/node_modules/react-native/React/Base/RCTWebSocketObserverProtocol.h
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Modules/RCTDevMenu.m \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Tommy/Desktop/ReactNative-iOS-Node-eCommerceApp/React-Native-Code/node_modules/react-native/React/Base/RCTWebSocketObserverProtocol.h
